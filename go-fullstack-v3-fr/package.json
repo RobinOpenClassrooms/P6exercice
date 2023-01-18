@@ -1,0 +1,23 @@
+{
+  "name": "go-fullstack-v3-fr",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server . -p 4200 -P \"http://localhost:4200?\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^13.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobinOpenClassrooms/P6exercice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RobinOpenClassrooms/P6exercice/issues"
+  },
+  "homepage": "https://github.com/RobinOpenClassrooms/P6exercice#readme",
+  "description": ""
+}
